@@ -11,10 +11,23 @@ body{
     border-radius: 5px;
 }
 
+.Social{
+    
+}
+
+.Social i{
+    margin: 0 5px 0 5px
+}
+
+.Social a{
+    text-decoration: none;
+    color: blue;
+}
+
 header{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
 }
 
 header h1{
